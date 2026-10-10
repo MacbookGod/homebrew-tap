@@ -1,6 +1,6 @@
 cask "pronote-desktop" do
   version "2.0.0"
-  sha256 "d90190f49063f4d1c2ac02571f5651cf6a2db9d1e93d0afcfd51a225d1360193"
+  sha256 "PASTE_YOUR_HASH_HERE"
 
   url "https://github.com{version}/PRONOTE-Desktop-#{version}-arm64.dmg"
   name "PRONOTE Desktop"
